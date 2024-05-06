@@ -1,0 +1,4 @@
+Producto [codigo=34GF, cantidad=23, precio=12.5, separacion=***]
+Producto [codigo=11FF, cantidad=14, precio=12.5, separacion=***]
+Producto [codigo=67JJ, cantidad=22, precio=12.5, separacion=***]
+Producto [codigo=34GD, cantidad=23, precio=12.5, separacion=***]
